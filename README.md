@@ -20,4 +20,4 @@ Este site foi criado somente a base de HTML5.
 
 Hospedado no Netlify
 
-https://unes-universidade.netlify.app/
+https://unes-universidade-gsj.netlify.app/
