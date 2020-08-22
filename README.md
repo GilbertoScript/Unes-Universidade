@@ -10,6 +10,8 @@ UNES - Universidade é um site de uma universidade fictícia criada no Curso de 
 
 Como este site foi feito completamente em HTML5 não tem a utilização de divs, mas sim de tables.
 
+Não há responsividade sendo utilizada no site
+
 ### 💻 Tecnologias utilizadas
 
 Este site foi criado somente a base de HTML5.
